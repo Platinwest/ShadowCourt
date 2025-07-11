@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-meta-information/world/","tags":["World","gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"tags":["World","gardenEntry"],"permalink":"/00-meta-information/world/","dgPassFrontmatter":true}
 ---
 
 

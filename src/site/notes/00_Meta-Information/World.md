@@ -146,24 +146,4 @@ Kar-Turhal wiederum ist Technologisch deutlich weiter, komplett im Steampunk ang
 ### Verbotene Zonen / „No-Go“-Gebiete
 
 
-### Orte für Abenteuerstarts
-
-> Ein neutrales Handelszentrum
-> Eine Grenzstadt nahe einer Bedrohung 
-> Eine Akademie oder Kirche mit dunklen Geheimnissen
-
 --- 
-
-## **Notes**
-
-
-
----
-
-## **Verweise**
-
-| Kategorie | Links |
-| :-------: | ----- |
-|           |       |
-
----

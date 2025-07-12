@@ -47,7 +47,7 @@ Standard DnD 5e Aufbau, Positiv und negativ plane, Jeder Gott that sein "Reich" 
 ### **Magie-Niveau**
 
 Nicht jeder sieht gerne einen Magier irgendwas vor sich hin brabbeln und auf einmal etwas erscheinen zu lassen. Aber jeder weiß, dass ein Kleriker in der regel etwas gutes damit bewirken kann.
-Es gibt 'Verbotene'-Spells welche nicht gerne, darunter sind z.b:
+Es gibt 'Verbotene'-Spells welche nicht gerne gesehen sind, darunter sind z.B.:
 - Inflict Wounds
 - Animate Dead
 - Fireball

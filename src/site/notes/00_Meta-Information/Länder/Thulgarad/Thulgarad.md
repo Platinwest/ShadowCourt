@@ -192,11 +192,3 @@ Es gibt außerhalb der Hauptstadt einen Vorposten, bei diesem Handel betrieben w
 Handel innerhalb der Stadt findet zwischen den Gilden Stadt, Handwerker stellen Werkzeuge wie auch Waffen und Rüstungen her. Die Minen Gilde beauftragt Wachen der Krieger Gilde als Schutz Geleit durch die Tiefen Wege. Und Schlussendlich verkauft die Minen Gilde ihre Ressourcen an die Handwerks Gilde.
 
 ---
-
-## **Verweise**
-
-| Kategorie | Links |
-| :-------: | ----- |
-|           |       |
-
----

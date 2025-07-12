@@ -134,15 +134,3 @@
 
 
 ---
-
-## **Verweise**
-
-|      Kategorie       | Links |
-| :------------------: | ----- |
-|   Zugehöriges Land   |       |
-|    Wichtige NSCs     |       |
-| Relevante Fraktionen |       |
-|    Wichtige Orte     |       |
-|   Relevante Quests   |       |
-
----

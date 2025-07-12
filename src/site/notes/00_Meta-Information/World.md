@@ -3,7 +3,7 @@
 ---
 
 
-# **{{Name}}**
+# **{{Test}}**
 ![00_Meta-Information/ShadowCourt_Map.png](/img/user/00_Meta-Information/ShadowCourt_Map.png)
 
 ## **Weltüberblick**

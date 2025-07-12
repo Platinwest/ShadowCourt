@@ -17,7 +17,7 @@ Verdania
 
 ### Hauptstadt
 
-[[00_Meta-Information/Länder/Thulgarad/Städte/_Kazûl-Bhar\|Kazûl-Bhar]]
+[[00_Meta-Information/Länder/Thulgarad/Städte/Kazûl-Bhar\|Kazûl-Bhar]]
 
 ### Herrscher/in
 
@@ -71,7 +71,7 @@ Hohes Kaltes Gebirge.
 
 ### Städte
 
-- **[[_Kazûl-Bhar \|Kazûl-Bhar]]**
+- **[[00_Meta-Information/Länder/Thulgarad/Städte/Kazûl-Bhar\|Kazûl-Bhar]]**
 - [[00_Meta-Information/Länder/Thulgarad/Städte/Baraz-Gundin\|Baraz-Gundin]]
 - [[00_Meta-Information/Länder/Thulgarad/Städte/Varrak-Dhol\|Varrak-Dhol]]
 

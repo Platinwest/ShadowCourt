@@ -1,5 +1,5 @@
 ---
-{"Continent":"Verdania","dg-publish":true,"tags":["land","gardenEntry"],"permalink":"/00-meta-information/laender/valgorm/valgorm/","dgPassFrontmatter":true}
+{"Continent":"Verdania","dg-publish":true,"dg-home":null,"tags":["land"],"permalink":"/00-meta-information/laender/valgorm/valgorm/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"PartOf":"Valgorm","dg-publish":true,"dg-home":null,"tags":["village"],"permalink":"/00-meta-information/laender/valgorm/doerfer/auental/","dgPassFrontmatter":true}
+{"PartOf":"Valgorm","dg-publish":true,"dg-home":null,"tags":["village"],"dh-hide":true,"permalink":"/00-meta-information/laender/valgorm/doerfer/auental/","dgPassFrontmatter":true}
 ---
 
 

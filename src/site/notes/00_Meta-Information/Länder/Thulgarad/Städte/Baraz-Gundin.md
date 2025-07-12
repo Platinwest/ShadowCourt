@@ -1,5 +1,5 @@
 ---
-{"PartOf":"Thulgarad","dg-publish":true,"dg-home":null,"tags":["city","dwarf"],"permalink":"/00-meta-information/laender/thulgarad/staedte/baraz-gundin/","dgPassFrontmatter":true}
+{"PartOf":"Thulgarad","dg-publish":true,"dg-home":null,"tags":["city","dwarf"],"dh-hide":true,"permalink":"/00-meta-information/laender/thulgarad/staedte/baraz-gundin/","dgPassFrontmatter":true}
 ---
 
 

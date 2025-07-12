@@ -1,5 +1,5 @@
 ---
-{"PartOf":"Thulgarad","dg-publish":true,"dg-home":null,"tags":["city","dwarf","capital"],"permalink":"/00-meta-information/laender/thulgarad/staedte/kazul-bhar/","dgPassFrontmatter":true}
+{"PartOf":"Thulgarad","dg-publish":true,"dg-home":null,"tags":["city","dwarf","capital"],"dh-hide":true,"permalink":"/00-meta-information/laender/thulgarad/staedte/kazul-bhar/","dgPassFrontmatter":true}
 ---
 
 

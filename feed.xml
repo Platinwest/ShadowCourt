@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:base="/ShadowCourt/">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://platinwest.github.io/ShadowCourt/">
     <title>ShadowCourt-Wiki</title>
-    <link href="/ShadowCourt//feed.xml" rel="self" >
-    <link href="/ShadowCourt/" >
-    <updated>2025-07-12T00:45:32Z</updated>
-    <id>/ShadowCourt/</id>
+    <link href="https://platinwest.github.io/ShadowCourt//feed.xml" rel="self" >
+    <link href="https://platinwest.github.io/ShadowCourt/" >
+    <updated>2025-07-12T00:56:43Z</updated>
+    <id>https://platinwest.github.io/ShadowCourt/</id>
         <entry>
             <title>
                 World
                 
             </title>
-            <updated>2025-07-12T00:45:20Z</updated>
-            <id>/ShadowCourt//</id>
+            <updated>2025-07-12T00:56:32Z</updated>
+            <id>https://platinwest.github.io/ShadowCourt//</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-test-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;{{Test}}&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;/img/user/00_Meta-Information/ShadowCourt_Map.png&quot; alt=&quot;00_Meta-Information/ShadowCourt_Map.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://platinwest.github.io/img/user/00_Meta-Information/ShadowCourt_Map.png&quot; alt=&quot;00_Meta-Information/ShadowCourt_Map.png&quot; /&gt;&lt;/p&gt;
 &lt;h2 id=&quot;strong-weltueberblick-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Weltüberblick&lt;/strong&gt;&lt;/h2&gt;
 &lt;h3 id=&quot;strong-kontinent-e-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Kontinent(-e)&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
@@ -28,40 +28,40 @@
 &lt;h3 id=&quot;strong-laender-regionen-machtzentren-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Länder / Regionen / Machtzentren&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;h3 id=&quot;strong-00-meta-information-laender-aurethia-aurethia-aurethia-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;/404&quot; target=&quot;&quot;&gt;Aurethia&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;strong-00-meta-information-laender-aurethia-aurethia-aurethia-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://platinwest.github.io/404&quot; target=&quot;&quot;&gt;Aurethia&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h3 id=&quot;strong-00-meta-information-laender-calvarion-calvarion-calvarion-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;/404&quot; target=&quot;&quot;&gt;Calvarion&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;strong-00-meta-information-laender-calvarion-calvarion-calvarion-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://platinwest.github.io/404&quot; target=&quot;&quot;&gt;Calvarion&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h3 id=&quot;strong-00-meta-information-laender-dur-borim-dur-borim-dur-borim-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;/404&quot; target=&quot;&quot;&gt;Dur-Borim&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;strong-00-meta-information-laender-dur-borim-dur-borim-dur-borim-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://platinwest.github.io/404&quot; target=&quot;&quot;&gt;Dur-Borim&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h3 id=&quot;strong-00-meta-information-laender-elaria-elaria-elaria-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;/404&quot; target=&quot;&quot;&gt;Elaria&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;strong-00-meta-information-laender-elaria-elaria-elaria-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://platinwest.github.io/404&quot; target=&quot;&quot;&gt;Elaria&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h3 id=&quot;strong-00-meta-information-laender-kar-turhal-kar-turhal-kar-turhal-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;/404&quot; target=&quot;&quot;&gt;Kar-Turhal&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;strong-00-meta-information-laender-kar-turhal-kar-turhal-kar-turhal-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://platinwest.github.io/404&quot; target=&quot;&quot;&gt;Kar-Turhal&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h3 id=&quot;strong-00-meta-information-laender-myrrhavel-myrrhavel-myrrhavel-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;/404&quot; target=&quot;&quot;&gt;Myrrhavel&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;strong-00-meta-information-laender-myrrhavel-myrrhavel-myrrhavel-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://platinwest.github.io/404&quot; target=&quot;&quot;&gt;Myrrhavel&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h3 id=&quot;strong-00-meta-information-laender-silvarien-silvarien-silvarien-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;/404&quot; target=&quot;&quot;&gt;Silvarien&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;strong-00-meta-information-laender-silvarien-silvarien-silvarien-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://platinwest.github.io/404&quot; target=&quot;&quot;&gt;Silvarien&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h3 id=&quot;strong-00-meta-information-laender-skjarn-skjarn-skjarn-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;/404&quot; target=&quot;&quot;&gt;Skjarn&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;strong-00-meta-information-laender-skjarn-skjarn-skjarn-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://platinwest.github.io/404&quot; target=&quot;&quot;&gt;Skjarn&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h3 id=&quot;strong-00-meta-information-laender-suran-tesh-suran-tesh-suran-tesh-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;/404&quot; target=&quot;&quot;&gt;Suran&#39;Tesh&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;strong-00-meta-information-laender-suran-tesh-suran-tesh-suran-tesh-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://platinwest.github.io/404&quot; target=&quot;&quot;&gt;Suran&#39;Tesh&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h3 id=&quot;strong-00-meta-information-laender-tarkhalon-tarkhalon-tarkhalon-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;/404&quot; target=&quot;&quot;&gt;Tarkhalon&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;strong-00-meta-information-laender-tarkhalon-tarkhalon-tarkhalon-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://platinwest.github.io/404&quot; target=&quot;&quot;&gt;Tarkhalon&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h3 id=&quot;strong-00-meta-information-laender-thulgarad-thulgarad-thulgarad-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;/404&quot; target=&quot;&quot;&gt;Thulgarad&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;strong-00-meta-information-laender-thulgarad-thulgarad-thulgarad-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://platinwest.github.io/404&quot; target=&quot;&quot;&gt;Thulgarad&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h3 id=&quot;strong-00-meta-information-laender-valgorm-valgorm-valgorm-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;/00-meta-information/laender/valgorm/valgorm/&quot;&gt;Valgorm&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;strong-00-meta-information-laender-valgorm-valgorm-valgorm-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://platinwest.github.io/00-meta-information/laender/valgorm/valgorm/&quot;&gt;Valgorm&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&quot;strong-kosmologie-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Kosmologie&lt;/strong&gt;&lt;/h3&gt;
@@ -72,7 +72,7 @@
 &lt;li&gt;Gibt es „Wächter“, „Primärgötter“ oder Entitäten jenseits des Verstehens?&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/img/user/00_Meta-Information/appplanes2.png&quot; alt=&quot;appplanes2.png&quot; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&quot;https://platinwest.github.io/img/user/00_Meta-Information/appplanes2.png&quot; alt=&quot;appplanes2.png&quot; /&gt;&lt;br /&gt;
 Standard DnD 5e Aufbau, Positiv und negativ plane, Jeder Gott that sein &amp;quot;Reich&amp;quot; 9-Level der Hölle und so weiter.&lt;/p&gt;
 &lt;h3 id=&quot;strong-magie-niveau-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Magie-Niveau&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;Nicht jeder sieht gerne einen Magier irgendwas vor sich hin brabbeln und auf einmal etwas erscheinen zu lassen. Aber jeder weiß, dass ein Kleriker in der regel etwas gutes damit bewirken kann.&lt;br /&gt;
@@ -87,23 +87,23 @@ Es gibt &#39;Verbotene&#39;-Spells welche nicht gerne, darunter sind z.b:&lt;/p&
 &lt;p&gt;Angesehene Elite schulen sind zu finden in:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;/404&quot; target=&quot;&quot;&gt;Calvarion&lt;/a&gt; - &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;/404&quot; target=&quot;&quot;&gt; Velcarium&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://platinwest.github.io/404&quot; target=&quot;&quot;&gt;Calvarion&lt;/a&gt; - &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://platinwest.github.io/404&quot; target=&quot;&quot;&gt; Velcarium&lt;/a&gt;&lt;br /&gt;
 Kampfmagier werden hier hauptsächlich für den Krieg ausgebildet, also viel Fokus auf Evocation-Spells&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;/404&quot; target=&quot;&quot;&gt;Elaria&lt;/a&gt; - &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;/404&quot; target=&quot;&quot;&gt;Velith&#39;Aran&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://platinwest.github.io/404&quot; target=&quot;&quot;&gt;Elaria&lt;/a&gt; - &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://platinwest.github.io/404&quot; target=&quot;&quot;&gt;Velith&#39;Aran&lt;/a&gt;&lt;br /&gt;
 Die Hochelfen Schmücken sich mit ihrer Akademie Stadt. Die Größten Bibliotheken, die Mächtigsten Magier, die Weißesten der Weißen treffen sich hier.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;/404&quot; target=&quot;&quot;&gt;Aurethia&lt;/a&gt; - &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;/404&quot; target=&quot;&quot;&gt;Windfurt&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://platinwest.github.io/404&quot; target=&quot;&quot;&gt;Aurethia&lt;/a&gt; - &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://platinwest.github.io/404&quot; target=&quot;&quot;&gt;Windfurt&lt;/a&gt;&lt;br /&gt;
 Auch eine Kleinere Akademie Stadt, in der Nähe des Großen Tempels der Paladine, welche auch übe die Magie Lehrlinge wachen, kein Spezieller Fokus auf eine Spell Klasse, aber Wachende Augen auf verbotene Spells.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;/404&quot; target=&quot;&quot;&gt;Silvarien&lt;/a&gt; -  &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;/404&quot; target=&quot;&quot;&gt;Elan&#39;Seril&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://platinwest.github.io/404&quot; target=&quot;&quot;&gt;Silvarien&lt;/a&gt; -  &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://platinwest.github.io/404&quot; target=&quot;&quot;&gt;Elan&#39;Seril&lt;/a&gt;&lt;br /&gt;
 Magier Zirkel und Neutraler Grund der Waldelfen. Hier Wird nicht nur Magie sondern auch Politik gelehrt. Jeder Druide hat in seinem Zirkel schon von diesem überaus magischen ort gehört, viele träumen davon einmal in den magischen see zu baden welcher hier sein soll.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;/00-meta-information/laender/valgorm/valgorm/&quot;&gt;Valgorm&lt;/a&gt; - &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;/404&quot; target=&quot;&quot;&gt;Trakenfeld&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://platinwest.github.io/00-meta-information/laender/valgorm/valgorm/&quot;&gt;Valgorm&lt;/a&gt; - &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://platinwest.github.io/404&quot; target=&quot;&quot;&gt;Trakenfeld&lt;/a&gt;&lt;br /&gt;
 Nicht direkt in Trakenfeld, aber ein war auf dem see eine Insel. Auf dieser war eine Akademie Gegründet worden, die durch ein Tragisches Ereignis im see untergegangen ist. Vielleicht können einige geheimnisse noch geborgen werden, vielleicht ist auch alles verloren.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -165,20 +165,20 @@ Kar-Turhal wiederum ist Technologisch deutlich weiter, komplett im Steampunk ang
 &lt;hr /&gt;
 
             </content>
-            <link href="/ShadowCourt//" >
+            <link href="https://platinwest.github.io/ShadowCourt//" >
         </entry>
         <entry>
             <title>
                 Valgorm
                 
             </title>
-            <updated>2025-07-12T00:45:20Z</updated>
-            <id>/ShadowCourt//00-meta-information/laender/valgorm/valgorm/</id>
+            <updated>2025-07-12T00:56:32Z</updated>
+            <id>https://platinwest.github.io/ShadowCourt//00-meta-information/laender/valgorm/valgorm/</id>
             <content type="html">
                 &lt;h1 id=&quot;strong-valgorm-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Valgorm&lt;/strong&gt;&lt;/h1&gt;
 &lt;h2 id=&quot;strong-allgemeine-infos-strong&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;Allgemeine Infos&lt;/strong&gt;&lt;/h2&gt;
 &lt;h3 id=&quot;wappen-symbol&quot; tabindex=&quot;-1&quot;&gt;Wappen / Symbol&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/img/user/00_Meta-Information/L%C3%A4nder/Valgorm/Valgorm.png&quot; alt=&quot;Valgorm.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://platinwest.github.io/img/user/00_Meta-Information/L%C3%A4nder/Valgorm/Valgorm.png&quot; alt=&quot;Valgorm.png&quot; /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;kontinent&quot; tabindex=&quot;-1&quot;&gt;Kontinent&lt;/h3&gt;
 &lt;h3 id=&quot;hauptstadt&quot; tabindex=&quot;-1&quot;&gt;Hauptstadt&lt;/h3&gt;
 &lt;h3 id=&quot;herrscher-in&quot; tabindex=&quot;-1&quot;&gt;Herrscher/in&lt;/h3&gt;
@@ -303,6 +303,6 @@ Kar-Turhal wiederum ist Technologisch deutlich weiter, komplett im Steampunk ang
 &lt;hr /&gt;
 
             </content>
-            <link href="/ShadowCourt//00-meta-information/laender/valgorm/valgorm/" >
+            <link href="https://platinwest.github.io/ShadowCourt//00-meta-information/laender/valgorm/valgorm/" >
         </entry>
 </feed>

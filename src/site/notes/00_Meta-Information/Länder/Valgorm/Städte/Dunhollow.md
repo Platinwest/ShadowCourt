@@ -1,5 +1,5 @@
 ---
-{"PartOf":"Valgorm","dg-publish":true,"dg-home":null,"tags":["city","capital"],"dh-hide":true,"permalink":"/00-meta-information/laender/valgorm/staedte/dunhollow/","dgPassFrontmatter":true}
+{"PartOf":"Valgorm","dg-publish":true,"dg-home":null,"tags":["city","capital"],"dg-hide":true,"permalink":"/00-meta-information/laender/valgorm/staedte/dunhollow/","hide":true,"dgPassFrontmatter":true}
 ---
 
 

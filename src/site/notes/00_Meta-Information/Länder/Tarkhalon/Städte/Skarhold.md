@@ -1,10 +1,10 @@
 ---
-{"PartOf":"Thulgarad","dg-publish":true,"dg-home":null,"tags":["city","dwarf","capital"],"dg-hide":true,"permalink":"/00-meta-information/laender/thulgarad/staedte/kazul-bhar/","hide":true,"dgPassFrontmatter":true}
+{"PartOf":"Tarkhalon","dg-publish":true,"dg-home":null,"dg-hide":true,"tags":["capital","city"],"permalink":"/00-meta-information/laender/tarkhalon/staedte/skarhold/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
 
-# **Kazûh-Bhar**
+# **Skarhold**
 
 ## **Map**
 
@@ -17,7 +17,7 @@
 
 ### Land
 
-- Zugehörigkeit aktuell: [[00_Meta-Information/Länder/Thulgarad/Thulgarad\|Thulgarad]]
+- Zugehörigkeit aktuell: [[00_Meta-Information/Länder/Tarkhalon/Tarkhalon\|Tarkhalon]]
     
 - Ursprung / historisch: {{Land}}
     
@@ -132,5 +132,17 @@
 
 > Freiraum für weitere Infos, Gerüchte, besondere Ereignisse, Verknüpfungen
 
+
+---
+
+## **Verweise**
+
+|      Kategorie       | Links |
+| :------------------: | ----- |
+|   Zugehöriges Land   |       |
+|    Wichtige NSCs     |       |
+| Relevante Fraktionen |       |
+|    Wichtige Orte     |       |
+|   Relevante Quests   |       |
 
 ---

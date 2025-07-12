@@ -1,5 +1,5 @@
 ---
-{"PartOf":"Thulgarad","dg-publish":true,"dg-home":null,"tags":["city","dwarf"],"dh-hide":true,"permalink":"/00-meta-information/laender/thulgarad/staedte/varrak-dhol/","dgPassFrontmatter":true}
+{"PartOf":"Thulgarad","dg-publish":true,"dg-home":null,"tags":["city","dwarf"],"dg-hide":true,"permalink":"/00-meta-information/laender/thulgarad/staedte/varrak-dhol/","hide":true,"dgPassFrontmatter":true}
 ---
 
 

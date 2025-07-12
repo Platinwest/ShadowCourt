@@ -1,5 +1,5 @@
 ---
-{"PartOf":"Valgorm","dg-publish":true,"dg-home":null,"tags":["city"],"dh-hide":true,"permalink":"/00-meta-information/laender/valgorm/staedte/hallenfurt/","dgPassFrontmatter":true}
+{"PartOf":"Valgorm","dg-publish":true,"dg-home":null,"tags":["city"],"dg-hide":true,"permalink":"/00-meta-information/laender/valgorm/staedte/hallenfurt/","hide":true,"dgPassFrontmatter":true}
 ---
 
 

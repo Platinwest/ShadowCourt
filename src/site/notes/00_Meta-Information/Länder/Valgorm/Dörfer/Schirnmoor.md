@@ -1,9 +1,9 @@
 ---
-{"PartOf":"Valgorm","dg-publish":true,"dg-home":null,"tags":["village"],"dg-hide":true,"permalink":"/00-meta-information/laender/valgorm/doerfer/auental/","hide":true,"dgPassFrontmatter":true}
+{"PartOf":"Valgorm","dg-publish":true,"dg-home":null,"tags":["village"],"dg-hide":true,"permalink":"/00-meta-information/laender/valgorm/doerfer/schirnmoor/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
-# **Auental**
+# **Schirnmoor**
 
 ## **Map**
 

@@ -1,5 +1,5 @@
 ---
-{"Continent":"Verdania","dg-publish":true,"dg-home":null,"tags":["land","dwarf"],"dg-path":"Locations/","permalink":"/locations//","dgPassFrontmatter":true}
+{"Continent":"Verdania","dg-publish":true,"dg-home":null,"tags":["land","dwarf"],"dg-path":"Locations/Thulgarad.md","permalink":"/locations/thulgarad/","dgPassFrontmatter":true}
 ---
 
 

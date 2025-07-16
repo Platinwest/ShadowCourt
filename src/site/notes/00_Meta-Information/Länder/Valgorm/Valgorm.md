@@ -1,5 +1,5 @@
 ---
-{"Continent":"Verdania","dg-publish":true,"dg-home":null,"tags":["land"],"dg-path":"Locations/","permalink":"/locations//","dgPassFrontmatter":true}
+{"Continent":"Verdania","dg-publish":true,"dg-home":null,"tags":["land"],"dg-path":"Locations/Valgorm.md","permalink":"/locations/valgorm/","dgPassFrontmatter":true}
 ---
 
 

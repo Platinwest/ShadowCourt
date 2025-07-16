@@ -1,5 +1,5 @@
 ---
-{"Continent":"Verdania","dg-publish":true,"dg-home":null,"dg-hide":null,"tags":["land"],"titel":"Tarkhalon","dg-pinned":true,"permalink":"/00-meta-information/laender/tarkhalon/tarkhalon/","pinned":true,"dgPassFrontmatter":true}
+{"Continent":"Verdania","dg-publish":true,"dg-home":null,"dg-hide":null,"tags":["land"],"titel":"Tarkhalon","dg-path":"Locations/","permalink":"/locations//","dgPassFrontmatter":true}
 ---
 
 

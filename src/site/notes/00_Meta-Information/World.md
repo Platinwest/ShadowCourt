@@ -68,7 +68,7 @@ Angesehene Elite schulen sind zu finden in:
 - [[00_Meta-Information/Länder/Silvarien/Silvarien\|Silvarien]] -  [[00_Meta-Information/Länder/Silvarien/Dörfer/Elan'Seril\|Elan'Seril]]
 	Magier Zirkel und Neutraler Grund der Waldelfen. Hier Wird nicht nur Magie sondern auch Politik gelehrt. Jeder Druide hat in seinem Zirkel schon von diesem überaus magischen ort gehört, viele träumen davon einmal in den magischen see zu baden welcher hier sein soll.
 
-- [[00_Meta-Information/Länder/Valgorm/Valgorm\|Valgorm]] - [[00_Meta-Information/Länder/Valgorm/Dörfer/Trakenfeld\|Trakenfeld]]
+- [[00_Meta-Information/Länder/Valgorm/Valgorm\|Valgorm]] - [[00_Meta-Information/Länder/Valgorm/Trakenfeld\|Trakenfeld]]
 	Nicht direkt in Trakenfeld, aber ein war auf dem see eine Insel. Auf dieser war eine Akademie Gegründet worden, die durch ein Tragisches Ereignis im see untergegangen ist. Vielleicht können einige geheimnisse noch geborgen werden, vielleicht ist auch alles verloren.
 
 

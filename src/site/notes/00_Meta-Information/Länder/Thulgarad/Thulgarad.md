@@ -1,5 +1,5 @@
 ---
-{"Continent":"Verdania","dg-publish":true,"dg-home":null,"tags":["land","dwarf"],"permalink":"/00-meta-information/laender/thulgarad/thulgarad/","dgPassFrontmatter":true}
+{"Continent":"Verdania","dg-publish":true,"dg-home":null,"tags":["land","dwarf"],"dg-path":"Locations/","permalink":"/locations//","dgPassFrontmatter":true}
 ---
 
 
@@ -17,7 +17,7 @@ Verdania
 
 ### Hauptstadt
 
-[[00_Meta-Information/Länder/Thulgarad/Städte/Kazûl-Bhar\|Kazûl-Bhar]]
+[[00_Meta-Information/Länder/Thulgarad/Kazûl-Bhar\|Kazûl-Bhar]]
 
 ### Herrscher/in
 
@@ -71,9 +71,9 @@ Hohes Kaltes Gebirge.
 
 ### Städte
 
-- **[[00_Meta-Information/Länder/Thulgarad/Städte/Kazûl-Bhar\|Kazûl-Bhar]]**
-- [[00_Meta-Information/Länder/Thulgarad/Städte/Baraz-Gundin\|Baraz-Gundin]]
-- [[00_Meta-Information/Länder/Thulgarad/Städte/Varrak-Dhol\|Varrak-Dhol]]
+- **[[00_Meta-Information/Länder/Thulgarad/Kazûl-Bhar\|Kazûl-Bhar]]**
+- [[00_Meta-Information/Länder/Thulgarad/Baraz-Gundin\|Baraz-Gundin]]
+- [[00_Meta-Information/Länder/Thulgarad/Varrak-Dhol\|Varrak-Dhol]]
 
 
 --- 

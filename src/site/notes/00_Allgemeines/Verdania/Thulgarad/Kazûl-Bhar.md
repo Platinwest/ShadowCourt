@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"dh-hide":true,"dg-path":"Locations/Kazûl-Bhar.md","name":"Kazûl-Bhar","kontinent":"Verdania","bevölkerungsstruktur":["Zwergisch"],"besonderheit":"Hauptsächlich Unterirdisch","tags":["stadt","ort","dwarf"],"permalink":"/locations/kazul-bhar/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":null,"dg-hide":true,"dg-path":"Locations/Kazûl-Bhar.md","name":"Kazûl-Bhar","kontinent":"Verdania","bevölkerungsstruktur":["Zwergisch"],"besonderheit":"Hauptsächlich Unterirdisch","tags":["stadt","ort","dwarf"],"permalink":"/locations/kazul-bhar/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -17,7 +17,7 @@
 ### Land
 
 - Zugehörigkeit aktuell: 
-	 [[Thulgarad\|Thulgarad]]
+	 [[00_Allgemeines/Verdania/Thulgarad/Thulgarad\|Thulgarad]]
 
 - Ursprung / historisch: 
 	 Ursitz der Zwerge – erster Ort des Erwachens    

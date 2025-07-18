@@ -30,7 +30,7 @@
 - ### **[[Skjarn\|Skjarn]]**
 - ### **[[Suran'Tesh\|Suran'Tesh]]**
 - ### **[[Tarkhalon\|Tarkhalon]]**
-- ### **[[00_Allgemeines/Verdania/Thulgarad/Thulgarad.md\|Thulgarad.md]]**
+- ### **[[00_Allgemeines/Verdania/Thulgarad/Thulgarad\|Thulgarad]]**
 - ### **[[Valgorm\|Valgorm]]**
 
 

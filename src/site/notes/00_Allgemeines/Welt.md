@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-hide":false,"dg-path":"Welt.md","tags":["world","gardenEntry"],"permalink":"/welt/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"dg-hide":false,"dg-path":"Welt.md","dg-pinned":true,"tags":["world","gardenEntry"],"permalink":"/welt/","pinned":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -30,7 +30,7 @@
 - ### **[[Skjarn\|Skjarn]]**
 - ### **[[Suran'Tesh\|Suran'Tesh]]**
 - ### **[[Tarkhalon\|Tarkhalon]]**
-- ### **[[Thulgarad\|Thulgarad]]**
+- ### **[[00_Allgemeines/Verdania/Thulgarad/Thulgarad.md\|Thulgarad.md]]**
 - ### **[[Valgorm\|Valgorm]]**
 
 

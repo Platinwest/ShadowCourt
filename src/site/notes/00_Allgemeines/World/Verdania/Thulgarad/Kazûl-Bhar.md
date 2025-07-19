@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"dg-hide":true,"dg-path":"Locations/Kazûl-Bhar.md","name":"Kazûl-Bhar","kontinent":"Verdania","bevölkerungsstruktur":["Zwergisch"],"besonderheit":"Hauptsächlich Unterirdisch","tags":["stadt","ort","dwarf"],"permalink":"/locations/kazul-bhar/","hide":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":null,"dg-hide":true,"dg-path":"Locations/Kazûl-Bhar.md","name":"Kazûl-Bhar","kontinent":"Verdania","bevölkerungsstruktur":["Zwergisch"],"besonderheit":"Hauptsächlich Unterirdisch","tags":["stadt","ort","dwarf","thulgarad"],"permalink":"/locations/kazul-bhar/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
@@ -158,7 +158,7 @@
 	- Kleriker Ausbildung 
 
 - Haupthandelspartner / Verbindungen: 
-	 - Tiefenwege-Verbindung zu [[Varrak-Dhol\|Varrak-Dhol]] & [[Baraz-Gundin\|Baraz-Gundin]]
+	 - Tiefenwege-Verbindung zu [[00_Allgemeines/World/Verdania/Thulgarad/Varrak-Dhol\|Varrak-Dhol]] & [[00_Allgemeines/World/Verdania/Thulgarad/Baraz-Gundin\|Baraz-Gundin]]
 	 - Jeder der sich auf die Reise macht vor den Toren zu handeln
 
 - Besondere Produkte / Exportartikel: 

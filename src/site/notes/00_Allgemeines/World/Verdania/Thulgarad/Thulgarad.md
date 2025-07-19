@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"dg-hide":false,"dg-path":"Locations/Thulgarad.md","name":"Thulgarad","kontinent":"Verdania","bevölkerungsstruktur":["Zwergisch"],"tags":["land","region","dwarf","gewähltes_königtum"],"permalink":"/locations/thulgarad/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":null,"dg-hide":false,"dg-path":"Locations/Thulgarad.md","name":"Thulgarad","kontinent":"Verdania","bevölkerungsstruktur":["Zwergisch"],"tags":["land","region","dwarf","gewähltes_königtum","thulgarad"],"permalink":"/locations/thulgarad/","dgPassFrontmatter":true}
 ---
 
 
@@ -78,26 +78,15 @@ Umgeben von Calvarion, nahe gelegen des Großen [[Velmar-See \|Velmar-See's]].
 
 ## **Ortschaften & Orte**
 
-### Burgen & Festungen
-
--  **[[Karaz-Dar\|Karaz-Dar]]** 
-	  Nordfestung, Grenzwacht gegen Monster aus den Tiefen
-
-- **[[Durkhal-Fal\|Durkhal-Fal]]**
-	 Verlorene Bastion im südlichen Tiefenweg, von Schattenwesen eingenommen
-
-- **[[Burg Dragan\|Burg Dragan]]** 
-	 Hochsitz eines alten Adelszweigs, politisch gefallen, militärisch mächtig
-
 ### Städte
 
 - **[[00_Allgemeines/World/Verdania/Thulgarad/Kazûl-Bhar\|Kazûl-Bhar]]** 
 	 Hauptstadt, Zentrum von Macht, Religion und Thron
 
-- **[[Baraz-Gundin\|Baraz-Gundin]]** 
+- **[[00_Allgemeines/World/Verdania/Thulgarad/Baraz-Gundin\|Baraz-Gundin]]** 
 	 Bekannte Waffenschmiedestadt, berühmt für Runenklingen
 
-- **[[Varrak-Dhol\|Varrak-Dhol]]** 
+- **[[00_Allgemeines/World/Verdania/Thulgarad/Varrak-Dhol\|Varrak-Dhol]]** 
 	 Minenzentrum, tiefste Siedlung Thulgarads
 
 
@@ -109,14 +98,14 @@ Umgeben von Calvarion, nahe gelegen des Großen [[Velmar-See \|Velmar-See's]].
 
 - **[[Der Runenkreis\|Der Runenkreis]]** 
 	 Alte Versammlungshalle der Runenmagier, 
-	 gelegen in [[Baraz-Gundin\|Baraz-Gundin]]
+	 gelegen in [[00_Allgemeines/World/Verdania/Thulgarad/Baraz-Gundin\|Baraz-Gundin]]
 
 - **[[Kathedrale von Moradin\|Kathedrale von Moradin]]**
 	 Heiligster Ort des Reiches – in ihrer Tiefe brennt das Ewige Feuer, seit der Zeit des Erwachens, bewacht von den Hohepriestern der [[Glutwächter\|Glutwächter]]. 
 	 gelegen in [[00_Allgemeines/World/Verdania/Thulgarad/Kazûl-Bhar\|Kazûl-Bhar]]
 
 - **[[Die Ader der Tiefe\|Die Ader der Tiefe]]**
-	 Verbindung's Straße der Tiefen Wege zwischen [[00_Allgemeines/World/Verdania/Thulgarad/Kazûl-Bhar\|Kazûl-Bhar]] und [[Varrak-Dhol\|Varrak-Dhol]].
+	 Verbindung's Straße der Tiefen Wege zwischen [[00_Allgemeines/World/Verdania/Thulgarad/Kazûl-Bhar\|Kazûl-Bhar]] und [[00_Allgemeines/World/Verdania/Thulgarad/Varrak-Dhol\|Varrak-Dhol]].
 
 --- 
 

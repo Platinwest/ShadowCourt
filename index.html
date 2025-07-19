@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>Welt</title>
+<title>homepage</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <script async type="module">import mermaid from"https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs"</script>
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -67,7 +67,7 @@ CTRL + K
 </div>
 <div class="folder" x-data="{isOpen: true}">
 <div x-show="isOpen" style="display:none" class="">
-<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/">Welt </a>
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/welt/">Welt </a>
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="">
@@ -84,6 +84,8 @@ CTRL + K
 </div>
 </div>
 </div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
 </div>
 </div>
 </nav>
@@ -108,159 +110,22 @@ CTRL + K
 </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
-<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2025-07-19T17:32:23.077Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2025-07-19T17:32:23.077Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2025-07-19T17:32:23.077Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2025-07-19T17:35:26.316Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2025-07-19T17:35:26.316Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2025-07-19T17:35:26.316Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
 <main class="content cm-s-obsidian">
 <header>
 <div class="header-meta">
 </div>
 </header>
-<h1 id="strong-die-welt-strong" tabindex="-1"><strong>Die Welt</strong></h1>
-<p><picture src="/img/user/00_Allgemeines/_Bilder/ShadowCourt_Map.png" alt="00_Allgemeines/_Bilder/ShadowCourt_Map.png"><source media="(max-width:480px)" srcset="/img/optimized/TiCPNeg3FH-500.webp" type="image/webp">
-<source media="(max-width:480px)" srcset="/img/optimized/TiCPNeg3FH-500.jpeg">
-<source media="(max-width:1920px)" srcset="/img/optimized/TiCPNeg3FH-700.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/TiCPNeg3FH-700.jpeg"><img class="" src="/img/user/00_Allgemeines/_Bilder/ShadowCourt_Map.png" alt="00_Allgemeines/_Bilder/ShadowCourt_Map.png" width=""></picture></p>
-<h2 id="strong-weltueberblick-strong" tabindex="-1"><strong>Weltüberblick</strong></h2>
-<h3 id="strong-kontinente-strong" tabindex="-1"><strong>Kontinente</strong></h3>
-<ul>
-<li>
-<p>Verdania</p>
-</li>
-<li>
-<p>Elyros<br>
-Der gesamte Kontinent wurde einst von Elfen Bewohnt.</p>
-</li>
-</ul>
-<h3 id="strong-laender-regionen-machtzentren-strong" tabindex="-1"><strong>Länder / Regionen / Machtzentren</strong></h3>
-<ul>
-<li>
-<h3 id="strong-aurethia-aurethia-strong" tabindex="-1"><strong><a class="internal-link is-unresolved" href="/404" target="">Aurethia</a></strong></h3>
-</li>
-<li>
-<h3 id="strong-calvarion-calvarion-strong" tabindex="-1"><strong><a class="internal-link is-unresolved" href="/404" target="">Calvarion</a></strong></h3>
-</li>
-<li>
-<h3 id="strong-dur-borim-dur-borim-strong" tabindex="-1"><strong><a class="internal-link is-unresolved" href="/404" target="">Dur-Borim</a></strong></h3>
-</li>
-<li>
-<h3 id="strong-elaria-elaria-strong" tabindex="-1"><strong><a class="internal-link is-unresolved" href="/404" target="">Elaria</a></strong></h3>
-</li>
-<li>
-<h3 id="strong-kar-turhal-kar-turhal-strong" tabindex="-1"><strong><a class="internal-link is-unresolved" href="/404" target="">Kar-Turhal</a></strong></h3>
-</li>
-<li>
-<h3 id="strong-myrrhavel-myrrhavel-strong" tabindex="-1"><strong><a class="internal-link is-unresolved" href="/404" target="">Myrrhavel</a></strong></h3>
-</li>
-<li>
-<h3 id="strong-silvarien-silvarien-strong" tabindex="-1"><strong><a class="internal-link is-unresolved" href="/404" target="">Silvarien</a></strong></h3>
-</li>
-<li>
-<h3 id="strong-skjarn-skjarn-strong" tabindex="-1"><strong><a class="internal-link is-unresolved" href="/404" target="">Skjarn</a></strong></h3>
-</li>
-<li>
-<h3 id="strong-suran-tesh-suran-tesh-strong" tabindex="-1"><strong><a class="internal-link is-unresolved" href="/404" target="">Suran'Tesh</a></strong></h3>
-</li>
-<li>
-<h3 id="strong-tarkhalon-tarkhalon-strong" tabindex="-1"><strong><a class="internal-link is-unresolved" href="/404" target="">Tarkhalon</a></strong></h3>
-</li>
-<li>
-<h3 id="strong-00-allgemeines-verdania-thulgarad-thulgarad-thulgarad-strong" tabindex="-1"><strong><a class="internal-link" target="" data-note-icon="" href="/locations/thulgarad/">Thulgarad</a></strong></h3>
-</li>
-<li>
-<h3 id="strong-valgorm-valgorm-strong" tabindex="-1"><strong><a class="internal-link is-unresolved" href="/404" target="">Valgorm</a></strong></h3>
-</li>
-</ul>
-<h3 id="strong-kosmologie-strong" tabindex="-1"><strong>Kosmologie</strong></h3>
-<p><picture src="/img/user/00_Allgemeines/_Bilder/appplanes2.png" alt="appplanes2.png"><source media="(max-width:480px)" srcset="/img/optimized/9220BltmXs-500.webp" type="image/webp">
-<source media="(max-width:480px)" srcset="/img/optimized/9220BltmXs-500.jpeg">
-<source media="(max-width:1920px)" srcset="/img/optimized/9220BltmXs-700.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/9220BltmXs-700.jpeg"><img class="" src="/img/user/00_Allgemeines/_Bilder/appplanes2.png" alt="appplanes2.png" width=""></picture><br>
-Standard DnD 5e Aufbau, Positiv und negativ plane, Jeder Gott that sein &quot;Reich&quot; 9-Level der Hölle und so weiter.</p>
-<h3 id="strong-magie-niveau-strong" tabindex="-1"><strong>Magie-Niveau</strong></h3>
-<p>Nicht jeder sieht gerne einen Magier irgendwas vor sich hin brabbeln und auf einmal etwas erscheinen zu lassen. Aber jeder weiß, dass ein Kleriker in der regel etwas gutes damit bewirken kann.<br>
-Es gibt 'Verbotene'-Spells welche nicht gerne gesehen sind, darunter sind z.B.:</p>
-<ul>
-<li>Inflict Wounds</li>
-<li>Animate Dead</li>
-<li>Fireball</li>
-<li>Je nach Bevölkerung: Revivify</li>
-</ul>
-<p>Magier Werden in der Regel in Eigenen Akademien Ausgebildet, aber es gibt aus genug auszubildende bei den Hofmagiern oder eigenen Hof Zirkeln bei den Größeren Städten, auch ein angesehener Adeliger Magier kann einen oder mehrere Schützlinge Aufnehmen.</p>
-<p>Angesehene Elite schulen sind zu finden in:</p>
-<ul>
-<li>
-<p><a class="internal-link is-unresolved" href="/404" target="">Calvarion</a> - <a class="internal-link is-unresolved" href="/404" target=""> Velcarium</a><br>
-Kampfmagier werden hier hauptsächlich für den Krieg ausgebildet, also viel Fokus auf Evocation-Spells</p>
-</li>
-<li>
-<p><a class="internal-link is-unresolved" href="/404" target="">Elaria</a> - <a class="internal-link is-unresolved" href="/404" target="">Velith'Aran</a><br>
-Die Hochelfen Schmücken sich mit ihrer Akademie Stadt. Die Größten Bibliotheken, die Mächtigsten Magier, die Weißesten der Weißen treffen sich hier.</p>
-</li>
-<li>
-<p><a class="internal-link is-unresolved" href="/404" target="">Aurethia</a> - <a class="internal-link is-unresolved" href="/404" target="">Windfurt</a><br>
-Auch eine Kleinere Akademie Stadt, in der Nähe des Großen Tempels der Paladine, welche auch übe die Magie Lehrlinge wachen, kein Spezieller Fokus auf eine Spell Klasse, aber Wachende Augen auf verbotene Spells.</p>
-</li>
-<li>
-<p><a class="internal-link is-unresolved" href="/404" target="">Silvarien</a> - <a class="internal-link is-unresolved" href="/404" target="">Elan'Seril</a><br>
-Magier Zirkel und Neutraler Grund der Waldelfen. Hier Wird nicht nur Magie sondern auch Politik gelehrt. Jeder Druide hat in seinem Zirkel schon von diesem überaus magischen ort gehört, viele träumen davon einmal in den magischen see zu baden welcher hier sein soll.</p>
-</li>
-<li>
-<p><a class="internal-link is-unresolved" href="/404" target="">Valgorm</a> - <a class="internal-link is-unresolved" href="/404" target="">Trakenfeld</a><br>
-Nicht direkt in Trakenfeld, aber ein war auf dem see eine Insel. Auf dieser war eine Akademie Gegründet worden, die durch ein Tragisches Ereignis im see untergegangen ist. Vielleicht können einige geheimnisse noch geborgen werden, vielleicht ist auch alles verloren.</p>
-</li>
-</ul>
-<h3 id="strong-technologie-level-strong" tabindex="-1"><strong>Technologie-Level</strong></h3>
-<p>Standard mittelalterliche, Römische Technologie, Einfache Anfänge von Webstühlen und Druckpressen, Schwarzpulver ist selten verteilt, daher müsste dieses wie auch monition selber hergestellt werden wenn nötig.<br>
-Kar-Turhal wiederum ist Technologisch deutlich weiter, komplett im Steampunk angekommen, dicke Rohre leiten Dampf, Gase und Interessante Flüssigkeiten durch das Land, und ganz im geheimen, wird für Notfälle, für die ganze Zivilisation von Kar-Turhal Zeppeline bereit gehalten, um im Notfall aufsteigen zu können, und den großen Traum der Fliegenden Festung umzusetzen, aber vielleicht ist dieser auch schon passiert, wer weiß schon was diese Zwerge in ihrer wüste machen.</p>
+<h1 id="strong-wip-strong" tabindex="-1"><strong>{{WIP}}</strong></h1>
+<p><picture src="/img/user/_Bilder/Leonardo_Phoenix_10_A_dark_elegant_emblem_for_a_secretive_orga_3.jpg" alt="Leonardo_Phoenix_10_A_dark_elegant_emblem_for_a_secretive_orga_3.jpg"><source media="(max-width:480px)" srcset="/img/optimized/4kEN55ArNA-500.webp" type="image/webp">
+<source media="(max-width:480px)" srcset="/img/optimized/4kEN55ArNA-500.jpeg">
+<source media="(max-width:1920px)" srcset="/img/optimized/4kEN55ArNA-700.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/4kEN55ArNA-700.jpeg"><img class="" src="/img/user/_Bilder/Leonardo_Phoenix_10_A_dark_elegant_emblem_for_a_secretive_orga_3.jpg" alt="Leonardo_Phoenix_10_A_dark_elegant_emblem_for_a_secretive_orga_3.jpg" width=""></picture></p>
 <hr>
-<h2 id="strong-voelker-and-amp-kulturen-strong" tabindex="-1"><strong>Völker &amp; Kulturen</strong></h2>
-<h3 id="spielbare-voelker" tabindex="-1">Spielbare Völker</h3>
-<h3 id="nicht-spieler-voelker-seltene-kulturen" tabindex="-1">Nicht-Spieler-Völker / seltene Kulturen</h3>
-<h3 id="besondere-kulturelle-eigenheiten-einzelner-voelker" tabindex="-1">Besondere kulturelle Eigenheiten einzelner Völker</h3>
-<div class="table-wrapper"><table>
-<thead>
-<tr>
-<th>Volk</th>
-<th>Eigenheiten</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></div>
-<hr>
-<h2 id="strong-religion-strong" tabindex="-1"><strong>Religion</strong></h2>
-<h3 id="goetter-and-amp-religionen" tabindex="-1">Götter &amp; Religionen</h3>
+<h2 id="strong-welt-strong" tabindex="-1"><strong>Welt</strong></h2>
 <blockquote>
-<ul>
-<li>Existieren aktive Götter?</li>
-<li>Pantheon: eigenes oder Standard (Faerûn, Greyhawk etc.)?</li>
-<li>Einfluss der Kirchen auf Politik / Gesellschaft?</li>
-</ul>
+<p>Kurzer Überblick über das Setting<br>
+z. B. „Eine zerrissene Welt nach dem Götterkrieg, in der Magie instabil geworden ist.“</p>
 </blockquote>
-<hr>
-<h2 id="strong-fraktionen-and-amp-kraefte-strong" tabindex="-1"><strong>Fraktionen &amp; Kräfte</strong></h2>
-<h3 id="weltweite-fraktionen" tabindex="-1">Weltweite Fraktionen</h3>
-<h3 id="lokale-gruppen-geheimbuende" tabindex="-1">Lokale Gruppen / Geheimbünde</h3>
-<h3 id="beziehungen-untereinander" tabindex="-1">Beziehungen untereinander</h3>
-<hr>
-<h2 id="strong-gefahren-and-amp-konflikte-strong" tabindex="-1"><strong>Gefahren &amp; Konflikte</strong></h2>
-<h3 id="offene-bedrohungen" tabindex="-1">Offene Bedrohungen</h3>
-<blockquote>
-<p>(z. B. Krieg, Monsteranstieg, politische Intrige, Naturkatastrophen)</p>
-</blockquote>
-<h3 id="vergangene-katastrophen-historische-konflikte" tabindex="-1">Vergangene Katastrophen / Historische Konflikte</h3>
-<blockquote>
-<p>(z. B. ein zerschlagenes Imperium, uralte Magierkriege, göttliche Strafen)</p>
-</blockquote>
-<h3 id="aktuelle-spannungen-aufstaende-rebellionen" tabindex="-1">Aktuelle Spannungen / Aufstände / Rebellionen</h3>
-<blockquote>
-<p>(z. B. Minderheiten im Aufstand, Provinzen streben nach Unabhängigkeit)</p>
-</blockquote>
-<hr>
-<h2 id="strong-wichtige-orte-and-amp-mysterien-strong" tabindex="-1"><strong>Wichtige Orte &amp; Mysterien</strong></h2>
-<h3 id="legendenhafte-orte" tabindex="-1">Legendenhafte Orte</h3>
-<h3 id="verbotene-zonen-no-go-gebiete" tabindex="-1">Verbotene Zonen / „No-Go“-Gebiete</h3>
 <hr>
 </main>
 <aside>

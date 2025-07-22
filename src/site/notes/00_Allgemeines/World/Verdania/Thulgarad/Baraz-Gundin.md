@@ -19,7 +19,7 @@
 - Zugehörigkeit aktuell: 
 	 [[00_Allgemeines/World/Verdania/Thulgarad/Thulgarad\|Thulgarad]]
 
-- Ursprung / historisch: {{Land}}
+- Ursprung / historisch:
      Einst heilige Stätte der ersten Runenschmiede – unter dem Berg geboren aus Wissen und Glut
 
 ### Bevölkerungsgruppen
@@ -131,7 +131,7 @@
     
 - Haupthandelspartner / Verbindungen: 
 	- Tiefenwege zu [[00_Allgemeines/World/Verdania/Thulgarad/Kazûl-Bhar\|Kazûl-Bhar]] & [[00_Allgemeines/World/Verdania/Thulgarad/Varrak-Dhol\|Varrak-Dhol]]
-	- Einige geheime Tunnel in Richtung [[Valgrom\|Valgrom]]
+	- Einige geheime Tunnel in Richtung [[00_Allgemeines/World/Verdania/Valgorm/Valgorm\|Valgorm]]. Meist Schmuggelware welche nicht offiziell durch die Handelskaste Freigegeben wurden.
     
 - Besondere Produkte / Exportartikel: 
 	- Runengebundene Waffen    
@@ -164,10 +164,16 @@
 
 - Militär / Wachen: 
 	- Runengebundene Wächterrüstungen, magisch verstärkte Stadtwache    
-	- Runengolems zum Schutz der inneren Kreise, sie erwachten als der altar erbaut wurde, ein Segen [[Moradin\|Moradins]] und je her Wächter des inneren Kreises
+	- Runengolems zum Schutz der inneren Kreise, sie erwachten als der altar erbaut wurde, ein Segen [[00_Allgemeines/Religion & Götter/Götter/Moradin\|Moradins]] und je her Wächter des inneren Kreises
 
 - Kriminalität: 
 	- Fast null – magische Überwachung und göttliche Runen schützen Bezirke    
 	- Illegaler Runenhandel mit Außenwelt vereinzelt im Verborgenen
+
+---
+
+## **Story**
+
+
 
 ---

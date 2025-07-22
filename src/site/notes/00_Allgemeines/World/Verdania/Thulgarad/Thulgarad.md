@@ -8,7 +8,7 @@
 
 ## **Wappen / Symbol**
 
-![Thulgarad_Wappen.png](/img/user/_Bilder/Thulgarad_Wappen.png)
+![Thulgarad_Wappen.png](/img/user/_Bilder/world/wappen/Thulgarad_Wappen.png)
 
 ---
 
@@ -123,10 +123,8 @@ Umgeben von Calvarion, nahe gelegen des Großen [[Velmar-See \|Velmar-See's]].
 
 ### Sprache(n)
 
-- **Zwergisch** (offizielle Sprache)
-    
-- **Gemeinsprache** (für Handel und Diplomatie)
-    
+- **Dwarvish** (offizielle Sprache)    
+- **Common** (für Handel und Diplomatie)    
 - **Alte Runensprache** (heilige Inschriften)
 
 ### Kulturelle Eigenheiten
@@ -166,9 +164,9 @@ Umgeben von Calvarion, nahe gelegen des Großen [[Velmar-See \|Velmar-See's]].
 	 
 
 
-###  Bündnisse & Feinde
+###  Beziehungen zu anderen Ländern
 
-- Bündnis mit **Calvarion**: 
+- Bündnis mit **[[Calvarion\|Calvarion]]**
 	 offiziell friedlich, aber voller Spannungen
 
 - Feindseligkeit gegenüber **Duergar & Drow**, 
@@ -193,7 +191,7 @@ Umgeben von Calvarion, nahe gelegen des Großen [[Velmar-See \|Velmar-See's]].
 
 ### Hauptreligion(en)
 
-- **[[Moradin\|Moradin]]**, 
+- **[[00_Allgemeines/Religion & Götter/Götter/Moradin\|Moradin]]**, 
 	 Gott der Schmiede, Ehre, Ordnung    
 	 Verehrung über Feuer und Amboss,
 

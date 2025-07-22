@@ -132,7 +132,7 @@
 	- Strenger Verhaltenskodex, Ehre & Pflicht wichtiger als Leben
 
 - Glaube / Religionen: 
-	 [[Moradin\|Moradin]] als Kriegsrichter und Feuerschmied
+	 [[00_Allgemeines/Religion & Götter/Götter/Moradin\|Moradin]] als Kriegsrichter und Feuerschmied
 
 - Feste / Bräuche: 
 	- **Tag des Schilds** – Neulinge schwören Eid vor dem Runenschild in der Ehrenhalle
@@ -153,5 +153,11 @@
 - Bekannte Bedrohungen: 
 	- Kreaturen des Underdark    
 	- Strukturschwächen in alten Schächten – regelmäßige Einstürze
+
+---
+
+## **Story**
+
+
 
 ---

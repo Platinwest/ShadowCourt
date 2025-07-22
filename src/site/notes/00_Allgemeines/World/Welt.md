@@ -5,7 +5,7 @@
 
 # **Die Welt**
 
-![_Bilder/ShadowCourt_Map.png](/img/user/_Bilder/ShadowCourt_Map.png)
+![[_Bilder/ShadowCourt_Map.png\|_Bilder/ShadowCourt_Map.png]]
 
 ## **Weltüberblick**
 
@@ -32,13 +32,13 @@
 - ### **[[Suran'Tesh\|Suran'Tesh]]**
 - ### **[[Tarkhalon\|Tarkhalon]]**
 - ### **[[00_Allgemeines/World/Verdania/Thulgarad/Thulgarad\|Thulgarad]]**
-- ### **[[Valgorm\|Valgorm]]**
+- ### **[[00_Allgemeines/World/Verdania/Valgorm/Valgorm\|Valgorm]]**
 
 
 ### **Kosmologie**
 
 
-![appplanes2.png](/img/user/_Bilder/appplanes2.png)
+![appplanes2.png](/img/user/_Bilder/world/appplanes2.png)
 Standard DnD 5e Aufbau, Positiv und negativ plane, Jeder Gott that sein "Reich" 9-Level der Hölle und so weiter.
 
 
@@ -66,7 +66,7 @@ Angesehene Elite schulen sind zu finden in:
 - [[Silvarien\|Silvarien]] -  [[Elan'Seril\|Elan'Seril]]
 	Magier Zirkel und Neutraler Grund der Waldelfen. Hier Wird nicht nur Magie sondern auch Politik gelehrt. Jeder Druide hat in seinem Zirkel schon von diesem überaus magischen ort gehört, viele träumen davon einmal in den magischen see zu baden welcher hier sein soll.
 
-- [[Valgorm\|Valgorm]] - [[Trakenfeld\|Trakenfeld]]
+- [[00_Allgemeines/World/Verdania/Valgorm/Valgorm\|Valgorm]] - [[Trakenfeld\|Trakenfeld]]
 	Nicht direkt in Trakenfeld, aber ein war auf dem see eine Insel. Auf dieser war eine Akademie Gegründet worden, die durch ein Tragisches Ereignis im see untergegangen ist. Vielleicht können einige geheimnisse noch geborgen werden, vielleicht ist auch alles verloren.
 
 

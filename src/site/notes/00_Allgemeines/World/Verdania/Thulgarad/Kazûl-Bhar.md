@@ -26,7 +26,7 @@
 ### Bevölkerungsgruppen
 
 - Zwerge aller Kasten 
-	 (besonders Adel und [[Glutwächter\|Glutwächter]])
+	 besonders Adel und [[Glutwächter\|Glutwächter]]
 
 - Kastenlose 
 	 in den [[00_Allgemeines/World/Verdania/Thulgarad/Kazûl-Bhar#^71a1ae\|Staubkammern]]
@@ -174,7 +174,7 @@
 	- Zwerge aller Kasten
 
 - Glaube / Religionen: 
-	- [[Moradin\|Moradin]] – allgegenwärtig
+	- [[00_Allgemeines/Religion & Götter/Götter/Moradin\|Moradin]] – allgegenwärtig
 	- Sonnenkult aus Calvarion, flüsternd in den [[00_Allgemeines/World/Verdania/Thulgarad/Kazûl-Bhar#^71a1ae\|Staubkammern]]
 
 - Feste / Bräuche: 
@@ -185,7 +185,7 @@
 	- **Bindung der Flamme** 
 		 Feierlicher Schwur junger Lehrlinge, die von einem Priester als würdig erkannt wurden
     - **Opfer der Flamme** 
-	     Einmal im Jahr wird dem Ewigen Feuer geopfert: Waffen, Werkzeuge, Rüstungen oder reine Barren werden in den Flammen zerschmolzen, als Gabe an [[Moradin\|Moradin]].
+	     Einmal im Jahr wird dem Ewigen Feuer geopfert: Waffen, Werkzeuge, Rüstungen oder reine Barren werden in den Flammen zerschmolzen, als Gabe an [[00_Allgemeines/Religion & Götter/Götter/Moradin\|Moradin]].
 
 ---
 
@@ -205,6 +205,11 @@
 	- Tunnelmonster aus den Tiefen
 	- Einfluss Calvarischer Goldhändler auf Politik
     
+
+---
+
+## **Story**
+
 
 
 ---

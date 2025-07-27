@@ -111,13 +111,13 @@
 
 ## **Sonstige Orte in der Stadt**
 
-| Name                          | Typ / Funktion           | Lage (Distrikt)                       | Anmerkungen                                                         |
-| ----------------------------- | ------------------------ | ------------------------------------- | ------------------------------------------------------------------- |
-| Runenturm Barak-Zhul          | Mond- & Sonnenlicht-Turm | außerhalb des Berges, Spitze sichtbar | Licht fällt gezielt durch Spiegelschächte auf den Runenkreis        |
-| [[Die Glutadern\|Die Glutadern]]             | Hauptschmiedehallen      | Tiefenring                            | Die mächtigsten Waffenschmiede Thulgarads arbeiten hier             |
-| [[Altar des Ersten Wortes\|Altar des Ersten Wortes]]   | Religiöses Denkmal       | Kreis der Runen                       | Ursprung der Runenmagie – Ort des ersten Zeichens                   |
-| [[Haus der Meisterinsignien\|Haus der Meisterinsignien]] | Ratssitz & Akademie      | Kreis der Runen                       | Sitz des Runenrats & Ausbildungsstätte                              |
-| Barak-Zhuls Auge              | Aussichtsplattform       | Runenturm Barak-Zhul                  | Blick über den gesamten Velmar-See – nur Runenmeister dürfen hinauf |
+| Name                          | Typ / Funktion           | Lage (Distrikt)                       | Anmerkungen                                                             |
+| ----------------------------- | ------------------------ | ------------------------------------- | ----------------------------------------------------------------------- |
+| Runenturm Barak-Zhul          | Mond- & Sonnenlicht-Turm | außerhalb des Berges, Spitze sichtbar | Licht fällt gezielt durch Spiegelschächte auf den Runenkreis            |
+| [[Die Glutadern\|Die Glutadern]]             | Hauptschmiedehallen      | Tiefenring                            | Die mächtigsten Waffenschmiede Thulgarads arbeiten hier                 |
+| [[Altar des Ersten Wortes\|Altar des Ersten Wortes]]   | Religiöses Denkmal       | Kreis der Runen                       | Ursprung der Runenmagie – Ort des ersten Zeichens                       |
+| [[Haus der Meisterinsignien\|Haus der Meisterinsignien]] | Ratssitz & Akademie      | Kreis der Runen                       | Sitz des Runenrats & Ausbildungsstätte                                  |
+| Barak-Zhuls Auge              | Aussichtsplattform       | Runenturm Barak-Zhul                  | Blick über den gesamten [[Velmar-See\|Velmar-See]] – nur Runenmeister dürfen hinauf |
 
 ---
 

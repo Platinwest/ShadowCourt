@@ -5,7 +5,7 @@
 
 # **Die Welt**
 
-![[_Bilder/ShadowCourt_Map.png\|_Bilder/ShadowCourt_Map.png]]
+![_Bilder/world/ShadowCourt_Map.png](/img/user/_Bilder/world/ShadowCourt_Map.png)
 
 ## **Weltüberblick**
 
@@ -28,7 +28,7 @@
 - ### **[[Kar-Turhal\|Kar-Turhal]]**
 - ### **[[Myrrhavel\|Myrrhavel]]**
 - ### **[[Silvarien\|Silvarien]]**
-- ### **[[Skjarn\|Skjarn]]**
+- ### **[[00_Allgemeines/World/Verdania/Skjarn/Skjarn\|Skjarn]]**
 - ### **[[Suran'Tesh\|Suran'Tesh]]**
 - ### **[[Tarkhalon\|Tarkhalon]]**
 - ### **[[00_Allgemeines/World/Verdania/Thulgarad/Thulgarad\|Thulgarad]]**
@@ -54,7 +54,7 @@ Es gibt 'Verbotene'-Spells welche nicht gerne gesehen sind, darunter sind z.B.:
 Magier Werden in der Regel in Eigenen Akademien Ausgebildet, aber es gibt aus genug auszubildende bei den Hofmagiern oder eigenen Hof Zirkeln bei den Größeren Städten, auch ein angesehener Adeliger Magier kann einen oder mehrere Schützlinge Aufnehmen.
 
 Angesehene Elite schulen sind zu finden in:
-- [[Calvarion\|Calvarion]] - [[_Velcarium \| Velcarium]]
+- [[Calvarion\|Calvarion]] - [[Velcarium\|Velcarium]]
 	Kampfmagier werden hier hauptsächlich für den Krieg ausgebildet, also viel Fokus auf Evocation-Spells
 
 - [[Elaria\|Elaria]] - [[Velith'Aran\|Velith'Aran]]

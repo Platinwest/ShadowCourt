@@ -11,10 +11,17 @@
 
 ## **Welt**
 
-> Hieran Wird noch gearbeitet
+- [[00_Allgemeines/World/Welt\|Welt]]
+	- Elyros:
+		- 
+	
+	- Verdania: 
+		- [[00_Allgemeines/World/Verdania/Thulgarad/Thulgarad\|Thulgarad]]
+		- [[00_Allgemeines/World/Verdania/Valgorm/Valgorm\|Valgorm]]
 
-[[00_Allgemeines/World/Welt\|Welt]]
+---
 
-[[00_Allgemeines/World/Verdania/Thulgarad/Thulgarad\|Thulgarad]]
+## **Story**
+
 
 ---

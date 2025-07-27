@@ -3,7 +3,7 @@
 ---
 
 
-# **{{Name der Gottheit / des Avatars}}**
+# **Tiamat**
 
 ![Tiamat.webp](/img/user/_Bilder/Gods/Tiamat/Tiamat.webp)
 

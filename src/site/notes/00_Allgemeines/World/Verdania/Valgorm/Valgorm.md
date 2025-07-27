@@ -3,7 +3,6 @@
 ---
 
 
-
 # **Valgorm**
 
 ## **Wappen / Symbol**
@@ -20,11 +19,11 @@
 
 ### Hauptstadt
 
-- [[Dunhollow\|Dunhollow]]
+- **[[Dunhollow\|Dunhollow]]**
 
 ### Herrscher/in
 
-- [[Calvred II. von Morrhal\|König Calvred II. von Morrhal]]
+- **[[Calvred II. von Morrhal\|König Calvred II. von Morrhal]]**
 	 Überforderter Nachfolger, jung, isoliert, unsicher
 
 ### Dynastie / Adelslinie
@@ -59,7 +58,7 @@ Osten von Verdania
 
 ### Nachbarreiche / Grenzen zu
 
-- Nord westlich: [[Skjarn\|Skjarn]]
+- Nord westlich: [[00_Allgemeines/World/Verdania/Skjarn/Skjarn\|Skjarn]]
 - Nord östlich: [[Dur-Borim\|Dur-Borim]]
 - Westlich: [[Calvarion\|Calvarion]]
 
@@ -102,7 +101,7 @@ Osten von Verdania
 	 Wichtiger Küstenhafen, heute calvarischer Flottenstützpunkt. Das neue Symbol des Imperiums ragt über den alten Hafen.
 
 - [[Terrosca\|Terrosca (ehemals Terrach)]]
-	 Verwaltungshandelsstadt, nahe des Velmar-Sees. Der Markt wurde zum Paradeplatz, der Handel wird nun imperiell gesteuert.
+	 Verwaltungshandelsstadt, nahe des [[Velmar-Sees\|Velmar-Sees]]. Der Markt wurde zum Paradeplatz, der Handel wird nun imperiell gesteuert.
 
 
 ### Dörfer & Siedlungen
@@ -114,7 +113,7 @@ Osten von Verdania
 	 im gleichnamigen Moor südwestlich von Dunhollow
 
 - **[[Trakenfeld\|Trakenfeld]]**
-	 Nordwestlich am Velmar-See, einst bedeutend, heute fast vergessen
+	 Nordwestlich am [[Velmar-See\|Velmar-See]], einst bedeutend, heute fast vergessen
 
 - **[[Hadernstein\|Hadernstein]]**
 	 Mischung aus Landwirtschaft & Bergbau, südlich von Dunhollow
@@ -170,7 +169,7 @@ Osten von Verdania
 | ------------ | ------------------------------------------------------------------------------------------- |
 | Kleidung     | Robuste, wetterfeste Stoffe, oft aus Tierhäuten, dunkle Grüntöne, Umhänge aus geöltem Leder |
 | Architektur  |                                                                                             |
-| Feste        | Nebelernte, Flussfeuer-Fest, Nacht der Ahnentiere                                           |
+| Feste        | **Nebelernte**, <br>**Flussfeuer-Fest**, <br>**Nacht der Ahnentiere**                       |
 | Bestattungen | Moorgräber oder Verbrennungen auf Flussflößen                                               |
 | Waffenstil   | Viel Speer, Hakenklingen, Bolzenwaffen – gegen Moorkreaturen                                |
 
@@ -195,7 +194,7 @@ Osten von Verdania
 - [[Calvarion\|Calvarisches Imperium]] 
 	 Aktuelles Friedensabkommen ist sehr Fragil, es könnte jederzeit wieder zu Krieg führen
 
-- [[Skjarn\|Skjarn]]
+- [[00_Allgemeines/World/Verdania/Skjarn/Skjarn\|Skjarn]]
 	 Kein Formelles abkommen, aber friedliches Verhältnis
 
 - [[Dur-Borim\|Dur-Borim]]
@@ -290,12 +289,12 @@ Kleinere Schreine für [[00_Allgemeines/Religion & Götter/Götter/Tymora\|Tymor
 - Torf, Holz, Heilkräuter    
 - Edelpilze, Alraunen, Sumpfgewürze    
 - Erze und Mineralien aus Hadernstein    
-- Fisch und Salz aus Velmar-See & Ocean
+- Fisch und Salz aus [[Velmar-See\|Velmar-See]] & Ocean
 
 
 ### Handelsrouten
 
-- Flussstraße nach Velmar-See 
+- Flussstraße nach [[Velmar-See\|Velmar-See]] 
 	 Zentrale Route nach Dunhollow
 
 - Küstenhandel via Fennmark
